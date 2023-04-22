@@ -1,7 +1,6 @@
 // import 'package:color_xd/home_page.dart';
 // import 'package:color_xd/views/home_screen/home.dart';
 // import 'package:color_xd/home_page.dart';
-// 
 // import 'package:color_xd/home_page.dart';
 // import 'package:color_xd/views/detect_screen/detect_screen.dart';
 import 'package:color_xd/views/splash_screen/splash_screen.dart';
