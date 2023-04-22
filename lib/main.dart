@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
    
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: appname,
+      title: "ColorXd",
 
       theme: ThemeData(
           // scaffoldBackgroundColor: Colors.transparent,
