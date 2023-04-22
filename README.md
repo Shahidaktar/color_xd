@@ -1,6 +1,6 @@
 # color_xd
 
-A new Flutter project.
+An application that detects the color of the objects.
 
 ## Getting Started
 
